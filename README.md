@@ -5,5 +5,5 @@ Setelah cargo sudah sampai di Ohio petugas akan mengeluarkan barang yaitu dengan
 Lalu setelah barang didrop, petugas bandara akan memisahkan barang dengan cara mencari sesuai dengan jenisnya untuk disimpan di gudang penyimpanan bandara.*
 
 ## Basic Skill
-* -> C++ *
-* -> Analys*
+* -> C++ 
+* -> Analys
