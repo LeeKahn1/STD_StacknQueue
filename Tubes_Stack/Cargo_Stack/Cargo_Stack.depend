@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672639354 source:d:\lee\doc\tubes\tubes_stack\cargo_stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1672600558 d:\lee\doc\tubes\tubes_stack\cargo_stack\stack.h
+	<iostream>
+
+1672600586 source:d:\lee\doc\tubes\tubes_stack\cargo_stack\stack.cpp
+	"stack.h"
+
