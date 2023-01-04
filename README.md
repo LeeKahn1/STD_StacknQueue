@@ -1,4 +1,4 @@
-# STD_StacknQueue
+# STD_Stack
 # Tubes STD 
 *Kami membuat studi kasus suatu ekspedisi cargo di bandara akan mengirim barang melalui cargo pesawat yg menuju sebagian ke kota Ohio dan sebagian lagi akan didrop ke destinasi selanjutnya. 
 Setelah cargo sudah sampai di Ohio petugas akan mengeluarkan barang yaitu dengan cara stack. Cargo yg akan dikeluarkan secara terutut dari yang paling belakang. 
